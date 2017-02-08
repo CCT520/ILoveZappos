@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ProductActivityActivity">
+    <item
+        android:id="@+id/detail"
+        android:title="More details"/>
+    <item
+        android:id="@+id/create_qr_code"
+        android:title="create QR code"/>
+</menu>
